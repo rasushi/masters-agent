@@ -1,0 +1,27 @@
+{
+    "study_level": "Master's",
+    "study_areas": [
+        "Artificial Intelligence",
+        "Machine Learning"
+    ],
+    "preferred_countries": [
+        "UK",
+        "Ireland"
+    ],
+    "intake": "Fall",
+    "max_budget_lakhs": 35.0,
+    "budget_scope": "\u20b935 lakhs total (tuition, living, travel, etc.)",
+    "funding_plan": "Education loan",
+    "priorities": [
+        "Strong employment/industry placement opportunities",
+        "Affordability within budget"
+    ],
+    "hard_constraints": [
+        "Full-time program",
+        "Program length exactly 1 year",
+        "University ranking within top 50 globally",
+        "Scholarship or tuition waiver required",
+        "Post-study work visa minimum 2 years"
+    ],
+    "unresolved_questions": []
+}
